@@ -1,0 +1,383 @@
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\bin\Debug\SendEvents.exe.config
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\bin\Debug\SendEvents.exe
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\bin\Debug\SendEvents.pdb
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\obj\Debug\SendEvents.exe
+C:\Users\abnarain\Documents\My Received Files\DesktopAppSendingEvents\DesktopAppSendingEvents\SendEvents\SendEvents\obj\Debug\SendEvents.pdb
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\SendEvents.exe.config
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\obj\Debug\SendEvents.exe
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\obj\Debug\SendEvents.pdb
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\SendEvents.exe
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\SendEvents.pdb
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.ServiceBus.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Newtonsoft.Json.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.ServiceBus.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Newtonsoft.Json.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\obj\Debug\SendEvents.csprojResolveAssemblyReference.cache
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Buffers.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Common.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Handlers.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Transport.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Mono.Security.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PCLCrypto.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Validation.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PCLCrypto.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Validation.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Edm.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.OData.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.BCrypt.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Kernel32.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.NCrypt.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Windows.Core.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\System.Net.Http.Formatting.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\System.Spatial.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Buffers.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Common.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Handlers.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Transport.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Edm.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.OData.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.BCrypt.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Kernel32.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.NCrypt.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Windows.Core.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\System.Net.Http.Formatting.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\System.Spatial.xml
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\de\System.Spatial.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\es\System.Spatial.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\fr\System.Spatial.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\it\System.Spatial.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ja\System.Spatial.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ko\System.Spatial.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ru\System.Spatial.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Edrive\Azure Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\SendEvents.exe.config
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\obj\Debug\SendEvents.exe
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\obj\Debug\SendEvents.pdb
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\SendEvents.exe
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\SendEvents.pdb
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Buffers.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Common.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Handlers.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Transport.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Edm.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.OData.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.ServiceBus.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Mono.Security.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Newtonsoft.Json.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PCLCrypto.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.BCrypt.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Kernel32.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.NCrypt.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Windows.Core.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\System.Net.Http.Formatting.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\System.Spatial.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Validation.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Buffers.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Common.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Handlers.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Transport.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Edm.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.OData.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.ServiceBus.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Newtonsoft.Json.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PCLCrypto.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.BCrypt.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Kernel32.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.NCrypt.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Windows.Core.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\System.Net.Http.Formatting.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\System.Spatial.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\Validation.xml
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\de\System.Spatial.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\es\System.Spatial.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\fr\System.Spatial.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\it\System.Spatial.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ja\System.Spatial.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ko\System.Spatial.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\ru\System.Spatial.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Edrive\Audience\Eventshub\SendEvents\SendEvents\SendEvents\obj\Debug\SendEvents.csprojResolveAssemblyReference.cache
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\SendEvents.exe.config
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\SendEvents.exe
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\SendEvents.pdb
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Buffers.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Common.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Handlers.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Transport.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Edm.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.OData.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.ServiceBus.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Mono.Security.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Newtonsoft.Json.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\PCLCrypto.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.BCrypt.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Kernel32.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.NCrypt.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Windows.Core.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\System.Net.Http.Formatting.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\System.Spatial.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Validation.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Buffers.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Common.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Handlers.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\DotNetty.Transport.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Edm.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.OData.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.ServiceBus.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Newtonsoft.Json.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\PCLCrypto.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.BCrypt.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Kernel32.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.NCrypt.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\PInvoke.Windows.Core.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\System.Net.Http.Formatting.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\System.Spatial.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\Validation.xml
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\de\System.Spatial.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\es\System.Spatial.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\fr\System.Spatial.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\it\System.Spatial.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ja\System.Spatial.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ko\System.Spatial.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\ru\System.Spatial.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\obj\Debug\SendEvents.csprojResolveAssemblyReference.cache
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\obj\Debug\SendEvents.exe
+C:\EDrive\SendEvents (2)\SendEvents\SendEvents\SendEvents\obj\Debug\SendEvents.pdb
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\SendEvents.exe.config
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\obj\Debug\SendEvents.exe
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\obj\Debug\SendEvents.pdb
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\SendEvents.exe
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\SendEvents.pdb
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Buffers.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Common.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Handlers.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Transport.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Edm.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Data.OData.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.ServiceBus.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Mono.Security.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Newtonsoft.Json.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\PCLCrypto.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\PInvoke.BCrypt.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\PInvoke.Kernel32.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\PInvoke.NCrypt.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\PInvoke.Windows.Core.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\System.Net.Http.Formatting.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\System.Spatial.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Validation.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Buffers.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Common.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Handlers.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\DotNetty.Transport.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Edm.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Data.OData.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.ServiceBus.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Newtonsoft.Json.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\PCLCrypto.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\PInvoke.BCrypt.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\PInvoke.Kernel32.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\PInvoke.NCrypt.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\PInvoke.Windows.Core.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\System.Net.Http.Formatting.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\System.Spatial.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\Validation.xml
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\de\System.Spatial.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\es\System.Spatial.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\fr\System.Spatial.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\it\System.Spatial.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ja\System.Spatial.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ko\System.Spatial.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\ru\System.Spatial.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\EDrive\FuDFinal\Demo1\SendEvents\SendEvents\obj\Debug\SendEvents.csprojResolveAssemblyReference.cache
