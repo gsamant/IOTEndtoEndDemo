@@ -10,17 +10,10 @@ namespace SendEvents
 {
     class Program
     {
-        static string iotHubUri = "FudDemoIOTHub.azure-devices.net"; // ! put in value !
-        static string deviceId = "MyDotNetDevice"; // ! put in value !
-        static string deviceKey = "+cqjyMhPv2zQ14HTXqze7eJZS+Rv6rAf/S1JY7V4Lng="; // ! put in value !
-        //static string iotHubUri = "testingIOTgs.azure-devices.net"; // ! put in value !
-        //static string deviceId = "MyTestDevice2"; // ! put in value !
-        //static string deviceKey = "xHx+rRVay2VsQqLH2m/egl9xtZHFWakaeDfztH0I9nU="; // ! put in value !
+        static string iotHubUri = "<IOT Hub URI>"; // ! put in value !
+        static string deviceId = "<Device ID>"; // ! put in value !
+        static string deviceKey = "<Device Shared access key>"; // ! put in value !
        
-        //static string iotHubUri = "testIOTgsNew.azure-devices.net"; // ! put in value !
-        //static string deviceId = "testdevice1"; // ! put in value !
-        //static string deviceKey = "71H8Q7iUkge4Y9d9T6ek3GjK6SWoyXNjw3UQ9jf5x50="; // ! put in value !
-
         static void Main(string[] args)
         {
             Random random = new Random();
