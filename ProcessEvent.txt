@@ -1,0 +1,28 @@
+#r "Newtonsoft.Json"
+
+using System;
+using System.Net;
+using Newtonsoft.Json;
+using System.Net.Http.Headers;
+using System.Runtime.Serialization;
+using System.Dynamic;
+
+public static void Run(string myEventHubMessage, TraceWriter log)
+{
+    log.Info($"C# Event Hub trigger function processed a message: {myEventHubMessage}");
+    dynamic data = JsonConvert.DeserializeObject(myEventHubMessage);
+    dynamic dataToSend = new System.Dynamic.ExpandoObject();
+    dataToSend.TimeStamp1 = data.TimeStamp1;
+    dataToSend.Temperature = data.Temperature;
+    dataToSend.Pressure = data.Pressure;
+    dataToSend.DeviceID = data.DeviceID;
+   
+    string serializedData = JsonConvert.SerializeObject(dataToSend);
+    log.Info("***********"+serializedData);
+    var client = new HttpClient();
+    client.BaseAddress = new Uri("XXXX");
+    client.DefaultRequestHeaders.Accept.Clear();
+    client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+    HttpResponseMessage response = client.PostAsJsonAsync("",serData ).Result;
+    log.Info(response.ToString());
+}
