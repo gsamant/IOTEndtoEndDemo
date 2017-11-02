@@ -23,6 +23,6 @@ public static void Run(string myEventHubMessage, TraceWriter log)
     client.BaseAddress = new Uri("XXXX");
     client.DefaultRequestHeaders.Accept.Clear();
     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-    HttpResponseMessage response = client.PostAsJsonAsync("",serData ).Result;
+    HttpResponseMessage response = client.PostAsJsonAsync("",serializedData ).Result;
     log.Info(response.ToString());
 }
